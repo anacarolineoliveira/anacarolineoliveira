@@ -1,4 +1,4 @@
- <h1 align="center">Olá 👋, eu sou a Ana.</h1>
+ <h1 align="center">Olá 👋, Eu sou a Ana.</h1>
 
 ##
 
@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/anacarolineoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffitando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolineoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffitando&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -28,9 +28,9 @@
 ### Contate-me através: 
  
 <div> 
-  <a href="https://instagram.com/anacarolinee_s" target="_blank"><img src="https://www.instagram.com/anacarolinee_s/"></a>
-  <a href = "mailto:jeffitando@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefferson-douglas-9840b6a9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/anacarolinee_s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:euanacarolineoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-caroline-oliveira-127b7a1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  
   ![Snake animation](https://github.com/jeffitando/jeffitando/blob/output/github-contribution-grid-snake.svg)
