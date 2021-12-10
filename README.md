@@ -4,4 +4,4 @@
 
 - 📚 Cursando Análise e desenvolvimento de sistemas.
 - 🚩 São Paulo - SP.
-- Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ana-caroline-oliveira-127b7a1ab//)
+- [![Connect on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](anacarolinee_s)
