@@ -2,7 +2,6 @@
 
 ##
 
-- 📚 Cursando Análise e desenvolvimento de sistemas.
 - 🚩 São Paulo - SP.
 - 👩🏻‍💻 Fourcamp 2021: 
 - Soft Skills;
