@@ -2,7 +2,7 @@
 
 ##
 
-- 👩🏻‍💻 Fourcamp 2021:  - 📚 Soft Skills; - 📚 Lean Thinking; - 📚 Metodologias Ágeis; - 📚 Mindset Ágil; - 📚 Design Thinking; - 📚 UX / UI; - 📚 Adobe XD; - 📚 Lógica de Programação; - 📚 Python; - 📚 Csharp;  - 📚 JavaScrpit;  - 📚 CSS; - 📚 HTML;
+
 <div>
 <a href="https://github.com/Anacarolineoliveira">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anacarolineoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
