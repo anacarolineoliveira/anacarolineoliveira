@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Ana%20Caroline%20🖖🏽&fontSize=42&fontColor=9e9e9e&animation=twinkling&fontAlignY=35"/> 
 
-<blockquote align="justify"> 🔭 Atualmente trabalhando como desenvolvedora C#
-👯 Estudando Analise e Desenvolvimento de sistemas. 
+<blockquote align="justify"> 🔭 Atualmente trabalhando como desenvolvedora C# <p>
+</p>
+👯 Estudando Analise e Desenvolvimento de sistemas. <p>
+</p>
 💬 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta</blockquote> 
 
 
