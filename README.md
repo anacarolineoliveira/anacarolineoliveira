@@ -4,7 +4,8 @@
 </p>
 👯 Estudando Analise e Desenvolvimento de sistemas. <p>
 </p>
-💬 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta</blockquote> 
+
+<p>💬 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta</blockquote> </p>
 
 
 #
