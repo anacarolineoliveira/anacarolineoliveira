@@ -7,10 +7,6 @@
 
 <p>🎯 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta</blockquote> </p>
 
-
-#
-
-
 <br clear="both">
 
 
