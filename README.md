@@ -2,10 +2,10 @@
 
 <blockquote align="justify"> 🔭 Atualmente trabalhando como desenvolvedora C# <p>
 </p>
-👯 Estudando Analise e Desenvolvimento de sistemas. <p>
+📚 Estudando Analise e Desenvolvimento de sistemas. <p>
 </p>
 
-<p>💬 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta</blockquote> </p>
+<p>🎯 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta</blockquote> </p>
 
 
 #
