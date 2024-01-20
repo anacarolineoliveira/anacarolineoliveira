@@ -1,4 +1,5 @@
 <h1 align="center">Oii, meu nome é Ana ✌🏼 </h1>
+
 “Seu trabalho vai ocupar uma grande parte da sua vida, e a única maneira de estar verdadeiramente satisfeito é fazendo aquilo que você acredita ser um ótimo trabalho. E a única maneira de fazer um ótimo trabalho, é fazendo o que você ama fazer.” - Steve Jobs.
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
