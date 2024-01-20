@@ -4,7 +4,6 @@
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ianacaroline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="ianacaroline" height="30" width="40" /></a>
-<a href="https://instagram.com/eniloraczz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "alt="anacsjpg" altura="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
