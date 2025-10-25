@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/7f/cf/93/7fcf934afb655c2e0c04094a157e5c45.jpg"  />
+<img align="right" height="122" src="https://i.pinimg.com/736x/7f/cf/93/7fcf934afb655c2e0c04094a157e5c45.jpg"  />
 
 ###
 
@@ -45,12 +45,9 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anacarolineoliveira/anacarolineoliveira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anacarolineoliveira/anacarolineoliveira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anacarolineoliveira/anacarolineoliveira/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anacarolineoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anacarolineoliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
