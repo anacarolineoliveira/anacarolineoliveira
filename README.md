@@ -1,6 +1,6 @@
 <p align="center">Oi, eu sou a Ana, uma profissional dedicada que deu os primeiros passos na área de tecnologia em 2021. Minha jornada começou na Foursys, onde tive a oportunidade de mergulhar no universo da programação. Durante o meu ano na Foursys, pude contribuir para projetos desafiadores e desenvolver habilidades sólidas e pude aprimorar minhas habilidades e adquirir experiência prática em diversas áreas. Meu foco principal envolveu o desenvolvimento de software, onde mergulhei nas linguagens de programação C# e Java para Android, desbravando os desafios empolgantes que essas plataformas oferecem. Banco de Dados SQL: Gerenciei e otimizei bancos de dados, garantindo o armazenamento seguro e eficiente das informações.</p>
 
-###
+####
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
